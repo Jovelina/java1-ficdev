@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/HastMap.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/repository/UsuarioRepository.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/model/Usuário.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/model/Livro.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/LinkedList.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/ArrayList.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/service/DevolucaoException.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/principal/App.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/service/BibliotecaService.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/repository/LivroRepository.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/HashSet.java</file>
+            <file>file:/home/ficdev/NetBeansProjects/capitulo6/src/service/EmprestimoException.java</file>
+        </group>
+    </open-files>
+</project-private>
